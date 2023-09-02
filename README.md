@@ -63,7 +63,7 @@ Then add DHCP features and configure the IP range settings for the DHCP server, 
 <br />
 Now that our Domain Controller is all set up, we will use a PowerShell script to automate the provision of 1000 users:<br/>
 <i>I'll further explain all the details of these PowerShell scripts in [<b>this repo!</b>](https://github.com/gbrlbrynvn/test)</i><br/>
-<img src="https://i.imgur.com/65RQttv.png" height="40%" width="40%"/>
+<img src="https://i.imgur.com/7gxSlhS.png" height="40%" width="40%"/>
 <img src="https://i.imgur.com/28pPRgC.png" height="40%" width="40%" />
 <br />  
 <br />
