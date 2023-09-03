@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 This project consists of creating a virtual environment with an Active Directory using Oracle VirtualBox. This helped me develop my skills and understanding of how Active Directory and Windows Networking work. It also furthered my knowledge on PowerShell scripting, specifically for Active Directory. My goal was to recreate the following network diagram in this sandbox environment:
-<img src="https://imgur.com/Q2JTdWn.png" height="80%" width="80%" alt="Network Diagram"/>
+<img src="https://imgur.com/WMZz2wE.png" height="80%" width="80%" alt="Network Diagram"/>
 <br />
 - <b>Setup a Domain Controller that will house Active Directory and assign two network adapters, to be used to connect to the internet and for the private network, respectively </b> <br />
 - <b>Set up Remote Acess Server(RAS) features to support NAT/PAT </b> <br />
